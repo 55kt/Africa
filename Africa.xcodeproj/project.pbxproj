@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B19F2382D11D5050057C4D9 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B19F2372D11D5050057C4D9 /* MapAnnotationView.swift */; };
 		4B849EDE2D0C858300BABFC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B849ED82D0C858300BABFC1 /* Preview Assets.xcassets */; };
 		4B849EDF2D0C858300BABFC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B849EDB2D0C858300BABFC1 /* Assets.xcassets */; };
 		4B849EE02D0C858300BABFC1 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B849EDA2D0C858300BABFC1 /* AfricaApp.swift */; };
@@ -48,6 +49,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B19F2372D11D5050057C4D9 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		4B849EC72D0C854D00BABFC1 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B849ED82D0C858300BABFC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4B849EDA2D0C858300BABFC1 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				4BD5034A2D0DFDE30004B536 /* ExternalWeblinkView.swift */,
 				4BD5034E2D1076E20004B536 /* VideoListItemView.swift */,
 				4BD503502D107E5C0004B536 /* VideoPlayerView.swift */,
+				4B19F2372D11D5050057C4D9 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				4BD503542D107F5D0004B536 /* VideoPlayerHelper.swift in Sources */,
 				4BD503492D0DF58B0004B536 /* InsetMapView.swift in Sources */,
 				4B849F052D0C8A6C00BABFC1 /* MapView.swift in Sources */,
+				4B19F2382D11D5050057C4D9 /* MapAnnotationView.swift in Sources */,
 				4B849EE12D0C858300BABFC1 /* ContentView.swift in Sources */,
 				4BD5034D2D1076780004B536 /* VideoModel.swift in Sources */,
 				4B849F032D0C8A5400BABFC1 /* VideoListView.swift in Sources */,
